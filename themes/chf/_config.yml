@@ -18,19 +18,19 @@ sidebar:
     -
       name: Home
       link: /
-      target: _blank
+      target: _self
     -
       name: Category
       link: /category
-      target: _blank
+      target: _self
     -
       name: Archive
       link: /archives
-      target: _blank
+      target: _self
     -
       name: Tag
       link: /
-      target: _blank
+      target: _self
 
 # count(统计)
 count:
@@ -49,9 +49,9 @@ social:
     link: http://weibo.com/3879883747/
   -
     name: github
-    link: https://github.com/chenghuifang
+    link: /
   -
-    name: zhihu
+    name: weixin
     link: /
 #  -
 #    name: twitter
