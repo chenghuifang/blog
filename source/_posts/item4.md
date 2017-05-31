@@ -17,7 +17,6 @@ getValue = function (data) {
 2.组件
 ``` javascript
 <script>
-// todo should support delay mode
 export default {
   props: {
     title: {
@@ -206,9 +205,6 @@ export default {
     .float-right {
       float: right;
     }
-  }
-  .number-labels {
-    margin-top: 6px;
   }
 }
 </style>

@@ -1,0 +1,66 @@
+
+
+# site icon
+favicon: /favicon.png
+
+# author headimg
+headimg: /favicon.png
+
+# search
+search: 
+    enable: true
+    placeholder: Enter Key...
+
+# sidebar
+sidebar: 
+  enable: true
+  menus:
+    -
+      name: Home
+      link: /
+      target: _blank
+    -
+      name: Category
+      link: /category
+      target: _blank
+    -
+      name: Archive
+      link: /archives
+      target: _blank
+    -
+      name: Tag
+      link: /
+      target: _blank
+
+# count(统计)
+count:
+  enable: true
+
+# commen  ts
+comments:
+  #duoshuo_username:  yumemor
+  disqus_username: huifeidmeng
+
+# accounts support weibo/github/zhihu/twitter/douban 
+# display to former three
+social: 
+  -
+    name: weibo
+    link: http://weibo.com/3879883747/
+  -
+    name: github
+    link: https://github.com/chenghuifang
+  -
+    name: zhihu
+    link: /
+#  -
+#    name: twitter
+#    link: 
+#  -
+#    name: douban
+#    link: 
+
+
+
+
+
