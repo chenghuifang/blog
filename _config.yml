@@ -69,5 +69,5 @@ theme: indigo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/chenghuifang/chenghuifang.github.io.git
+  repo: https://github.com/chenghuifang/chenghuifang.github.io
   branch: master
