@@ -1,5 +1,6 @@
 ---
 title: 你必须要弄明白的几个js概念！
+tags: [javascript]
 ---
 
 ### JavaScript数据类型

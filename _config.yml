@@ -5,7 +5,7 @@
 # Site
 title: 程吨吨的博客
 subtitle: chenghuifang
-description: 叹气是浪费时间的事情，哭泣是浪费力气的行径。
+description: 一入编程深似海，从此汉子是路人
 author: 程吨吨
 language: zh-CN
 timezone: Asia/Shanghai
@@ -38,8 +38,8 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
-  line_number: true
+  enable: false
+  line_number: false
   auto_detect: false
   tab_replace:
 
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: chf
+theme: indigo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

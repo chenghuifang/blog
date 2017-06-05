@@ -1,5 +1,6 @@
 ---
 title: 前端项目中如何使用iconfont
+tags: [iconfont]
 ---
 
 1.首先可以创建一个文件夹fonts，用来放以下iconfont的文件

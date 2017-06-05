@@ -1,5 +1,6 @@
 ---
 title: 解析url
+tags: [javascript]
 ---
 
   ```

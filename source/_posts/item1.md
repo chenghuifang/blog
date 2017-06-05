@@ -1,5 +1,6 @@
 ---
 title: 如何搭建vue框架
+tags: [Vue, Vue-cli]
 ---
 
 1.首先安装node,借助node的npm来安装依赖包。（如果直接使用npm安装，可能很慢，可以使用淘宝的npm镜像：

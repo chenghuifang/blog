@@ -1,5 +1,6 @@
 ---
 title: 前端项目常用的转换方法
+tags: [javascript]
 ---
 
 1.数组转化成MAP

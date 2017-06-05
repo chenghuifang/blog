@@ -1,5 +1,6 @@
 ---
 title: vue组件--滑块
+tags: [vue]
 ---
 
 1.使用
